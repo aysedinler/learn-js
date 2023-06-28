@@ -1,2 +1,3 @@
-// console.log("ahahha")
-
+// 
+// Document write ile çıktı verme
+document.write("ayşe dinler");
