@@ -30,4 +30,4 @@ console.log("iki sayının toplamı :",c+d);
 
 alert("merhabalar");
 
-// yukarıdan bildirim geliyor. kullanıcı hata yaptığında hatasını önlemeyi sağlayabilirim.
+// yukarıdan bildirim geliyor. kullanıcı hata yaptığında hatasını önlemeyi sağlayabilirim.0
