@@ -32,3 +32,38 @@
     //     console.log(i);
     // }
     // console.log("toplam :" , toplam)    
+// ------------------------------------------------------------------
+
+// while döngüsü
+// 1 den 10 a kadar yazdıralım
+
+// let sayac = 1
+// while(sayac<=10){
+//     console.log(sayac)
+// }
+//  bilgisayar kafayı yedi
+
+
+// while(sayac<=10){
+//     console.log(sayac);
+//     sayac++
+// } 
+
+//  1 den 10 a kadar çift ve tek sayıları yazdırma
+
+// let sayac =1
+// while(sayac<=10){
+//     if(sayac%2==0){
+//         console.log(sayac)
+//     }
+//     sayac++
+// }
+let sayac
+while(true){
+console.log(sayac)
+if(sayac==7){
+    break;
+
+}
+sayac++
+}
